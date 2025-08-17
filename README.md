@@ -6,7 +6,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow?logo=pandas)
 ![Scikit-learn](https://img.shields.io/badge/ML-ScikitLearn-orange?logo=scikit-learn)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -101,7 +100,7 @@ It consists of two parts:
 _Data Analytics Intern @ Unified Mentor | Aspiring Data Scientist_  
 📍 Varanasi, India  
 
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/hare-krishana-mishra-10683a238/) | [GitHub](https://github.com/HareKrishanaMishra787) 
 
 ---
 ⭐ If you found this project useful, don’t forget to **star the repo**!
