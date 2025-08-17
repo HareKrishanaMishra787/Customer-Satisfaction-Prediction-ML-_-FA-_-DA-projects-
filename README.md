@@ -1,5 +1,9 @@
 # 📊 Customer Satisfaction Prediction (EDA + ML Project)
 
+📂 **Dataset:** [Download CSV File](https://drive.google.com/file/d/1FYNL0E2_DHraEuhJUWMLuL1rTD5T8j1E/view?usp=sharing)  
+
+---
+
 [![Open Part 1 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rf_DaAbZGGQQYB0Nfq6X52Ee4CI54KxZ?usp=sharing)
 [![Open Part 2 in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1io-ZuMel9xoBsKAnob6ZgNSPFBgoIOwR?usp=sharing)
 
@@ -100,7 +104,7 @@ It consists of two parts:
 _Data Analytics Intern @ Unified Mentor | Aspiring Data Scientist_  
 📍 Varanasi, India  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/hare-krishana-mishra-10683a238/) | [GitHub](https://github.com/HareKrishanaMishra787) 
+🔗 [LinkedIn](https://www.linkedin.com/in/hare-krishana-mishra-10683a238/) | [GitHub](https://github.com/HareKrishanaMishra787)  
 
 ---
 ⭐ If you found this project useful, don’t forget to **star the repo**!
